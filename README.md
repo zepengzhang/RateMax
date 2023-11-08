@@ -12,7 +12,6 @@
 <div>
     <sup>1</sup>EPFL, <sup>2</sup>ShanghaiTech, <sup>3</sup> CUHK (Shenzhen), <sup>4</sup> HKUST, <sup>5</sup> University of Toronto
 </div>
----
 
 </div>
 
