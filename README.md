@@ -21,3 +21,15 @@ Weighted sum-rate (WSR) maximization plays a critical role in communication syst
 ## Code
 The code will be available soon.
 
+## Citation
+
+If you find our work useful in your research please consider citing our paper:
+
+```
+@article{zhang2023discerning,
+  title={Discerning and Enhancing the Weighted Sum-Rate Maximization Algorithms in Communications},
+  author={Zhang, Zepeng and Zhao, Ziping and Shen, Kaiming and Palomar, Daniel P and Yu, Wei},
+  journal={arXiv preprint arXiv:2311.04546},
+  year={2023}
+}
+```
